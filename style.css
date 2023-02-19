@@ -82,3 +82,8 @@ body {
   border-radius: calc(var(--border-radius) - 0.5rem);
   overflow: hidden;
 }
+
+.image-wrapper img {
+  max-width: 100%;
+  height: auto;
+}
