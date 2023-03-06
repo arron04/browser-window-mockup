@@ -4,6 +4,9 @@
   --background: #5a3a6d;
   --title: #333d4f;
   --window: #2a3240;
+  --btn-one-color: #d84e4e;
+  --btn-two-color: #655cab;
+  --btn-three-color: #b4c738;
 
   --border-radius: 1rem;
 }
@@ -59,14 +62,14 @@ body {
 }
 
 .button.one {
-  background-color: #d84e4e;
+  background-color: var(--btn-one-color);
 }
 
 .button.two {
-  background-color: #655cab;
+  background-color: var(--btn-two-color);
 }
 .button.three {
-  background-color: #b4c738;
+  background-color: var(--btn-three-color);
 }
 
 .image-outer {
