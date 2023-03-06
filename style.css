@@ -68,9 +68,6 @@ body {
 .button.three {
   background-color: #b4c738;
 }
-.button one {
-  background-color: rgb(216, 78, 78);
-}
 
 .image-outer {
   padding: 1rem;
@@ -80,7 +77,6 @@ body {
 .image-wrapper {
   width: inherit;
   height: 100%;
-  background-color: white;
   border-radius: calc(var(--border-radius) - 0.5rem);
   overflow: hidden;
 }
@@ -88,5 +84,4 @@ body {
 .image-wrapper img {
   min-width: 100%;
   max-width: 100%;
-  height: auto;
 }
