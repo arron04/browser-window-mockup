@@ -27,7 +27,7 @@ body {
 
 .window {
   width: 1080px;
-  height: 720px;
+  height: auto;
   background-color: var(--window);
   border-radius: var(--border-radius);
   box-shadow: 0px 12px 26px -14px rgba(0, 0, 0, 0.97);
