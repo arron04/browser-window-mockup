@@ -1,4 +1,4 @@
-## Window Mockup
+## Browser Window Mockup
 
 I frequently present work using a mock-up like this built in Adobe Illustrator. I thought it would be quite handy to have a readymade template to just slot an image into without depending on any editing software.
 
