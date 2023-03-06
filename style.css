@@ -85,3 +85,15 @@ body {
   min-width: 100%;
   max-width: 100%;
 }
+footer {
+  display: block;
+  position: absolute;
+  bottom: 1rem;
+}
+
+footer,
+footer a {
+  font-weight: 800;
+  font-family: monospace;
+  color: var(--white);
+}
